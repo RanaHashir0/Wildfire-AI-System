@@ -92,5 +92,3 @@ This isn’t just another AI project — it’s a **smart firefighter assistant*
 Whether you’re detecting fire from a drone cam, segmenting it for localization, or just curious about safety, this system’s got you covered.
 
 ---
-
-> Created with ❤️ by [Bilal Antall](https://github.com/BilalAntall)
